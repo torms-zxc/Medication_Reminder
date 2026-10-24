@@ -1,0 +1,6 @@
+{
+  "name": "Medication Reminder",
+  "description": "A comprehensive medication reminder and schedule tracker with SQLite user authentication, dosage and timing administration, push notification alarms, and SQLite history logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

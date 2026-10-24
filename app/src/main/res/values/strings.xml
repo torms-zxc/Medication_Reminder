@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Medication Reminder</string>
+    <string name="tagline">Timely medication administration &amp; adherence</string>
+    
+    <!-- Auth Strings -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to track your medication schedules</string>
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Register to manage your daily doses safely</string>
+    <string name="user_id_hint">User ID / Username</string>
+    <string name="full_name_hint">Full Name</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="dont_have_account">Don\'t have an account? Register</string>
+    <string name="already_have_account">Already registered? Sign In</string>
+    
+    <!-- Home Strings -->
+    <string name="daily_schedule_title">Today\'s Medication Schedule</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="history_logs">History Logs</string>
+    <string name="logout">Sign Out</string>
+    <string name="no_medications">No medication schedules yet</string>
+    <string name="no_medications_hint">Tap the + button to add your first daily medicine schedule with dosage timing and instructions.</string>
+    <string name="take_dose">Mark Taken</string>
+    <string name="skip_dose">Skip</string>
+    
+    <!-- Form Strings -->
+    <string name="med_name_hint">Medication Name (e.g. Amoxicillin, Metformin)</string>
+    <string name="dosage_hint">Dosage (e.g. 500 mg, 1 Tablet, 10 ml)</string>
+    <string name="time_hint">Schedule Timing</string>
+    <string name="instructions_hint">Specific Instructions (e.g. Take after meal with water)</string>
+    <string name="save_schedule">Save Schedule</string>
+    <string name="edit_schedule">Edit Schedule</string>
+    <string name="delete_schedule">Delete Schedule</string>
+    
+    <!-- History Strings -->
+    <string name="history_title">Administration History</string>
+    <string name="adherence_rate">Adherence Rate</string>
+    <string name="total_doses">Total Doses</string>
+    <string name="taken_doses">Taken</string>
+    <string name="skipped_doses">Skipped</string>
+    <string name="clear_history">Clear History</string>
+    <string name="no_history">No administration history yet.</string>
+    
+    <!-- Notification Strings -->
+    <string name="reminder_channel_name">Medication Reminders</string>
+    <string name="reminder_channel_desc">Timely notifications for scheduled medication doses</string>
+</resources>
